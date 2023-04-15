@@ -223,7 +223,7 @@ center location for each  sample of the train and validation set (same filename 
 The `original_preprocessed`  is the test split from the [Background challenge](https://github.com/MadryLab/backgrounds_challenge/releases/download/data/backgrounds_challenge_data.tar.gz)
 
 
-To run the experiments on the Dual-Intention dataset, launch the `background_cnn.py`  for the standard CNN models or use
+To run the experiments on this task, launch the `background_cnn.py`  for the standard CNN models or use
 `background_fcl.py` for the FCLs.
 In the following, we report the description of the script arguments that allow to control the hyperpameters.
 For categorical arguments, we report the available options with `choices={option1, option2, etc.}`.
